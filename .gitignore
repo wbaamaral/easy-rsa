@@ -1,0 +1,6 @@
+ca.crt
+*.old
+*.attr
+index.txt
+serial
+vars
