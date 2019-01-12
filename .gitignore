@@ -4,3 +4,5 @@ ca.crt
 index.txt
 serial
 vars
+easyrsa3/pki/
+*pki/*
